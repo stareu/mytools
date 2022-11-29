@@ -1,5 +1,1 @@
-export default class Kekus {
-	lol() {
-		return 5
-	}
-}
+console.log('DAAAAAAAAAAAAA')
